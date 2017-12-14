@@ -22,9 +22,12 @@ In the spirit of free software, everyone is encouraged to help improve this proj
   - Add new features
 
 ## Requirements
-- **Ember CLI**
-- **yarn**
-- **node/npm**
+You will need the following things properly installed on your computer.
+
+* [Git](https://git-scm.com/)
+* [Node.js](https://nodejs.org/) (with NPM)
+* [Ember CLI](https://ember-cli.com/)
+* [PhantomJS](http://phantomjs.org/)
 
 ## Local Development
 Quick instructions to get it running locally on your machine
