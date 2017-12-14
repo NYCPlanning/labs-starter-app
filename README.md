@@ -1,6 +1,6 @@
 # Application Name
 
-Description of the application
+Description of the application, customer, purpose, etc
 {Replace this with screenshots and images}
 
 ## How we work
