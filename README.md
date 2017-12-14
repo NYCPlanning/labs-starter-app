@@ -1,4 +1,4 @@
-# Application Name
+# {Application Name}
 
 Description of the application, customer, purpose, etc
 {Replace this with screenshots and images}
@@ -32,7 +32,7 @@ You will need the following things properly installed on your computer.
 * [Ember CLI](https://ember-cli.com/)
 * [PhantomJS](http://phantomjs.org/)
 
-## Local Development
+## Local development
 
 - Clone this repo `command`
 - Install Dependencies `command`
@@ -42,14 +42,14 @@ You will need the following things properly installed on your computer.
 
 "Lay of the land" structure of the codebase, components,
 
-### Backend Services
+### Backend services
 
 - **Carto** - Description of this service
 - **github static content** - Description of this service
 - **mapzen api** - Description of this service
 - **anything that the frontend app consumes** - Description of this service
 
-## Testing and Checks
+## Testing and checks
 
 - **ESLint** - We use ESLint with Airbnb's rules for JavaScript projects
   - Add an ESLint plugin to your text editor to highlight broken rules while you code
@@ -63,6 +63,6 @@ You will need the following things properly installed on your computer.
 
 You can deploy to dokku manually or depend on circleci..
 
-## Contact Us
+## Contact us
 
 You can find us on Twitter at [@nycplanninglabs](https://twitter.com/nycplanninglabs), or comment on issues and we'll follow up as soon as we can. If you'd like to send an email, use [labs_dl@planning.nyc.gov](mailto:labs_dl@planning.nyc.gov)
