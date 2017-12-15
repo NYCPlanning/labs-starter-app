@@ -1,7 +1,8 @@
-# {Application Name}
+# [Labs Starter App]
 
-Description of the application, customer, purpose, etc
-{Replace this with screenshots and images}
+{This is a collection of boilerplate files for Labs repos. Replace this with a description of the application, customer, purpose, etc.}
+
+{Replace this with a screenshot of the app.}
 
 ## How we work
 
@@ -29,10 +30,10 @@ In the spirit of free software, everyone is encouraged to help improve this proj
 
 You will need the following things properly installed on your computer.
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with NPM)
-* [Ember CLI](https://ember-cli.com/)
-* [PhantomJS](http://phantomjs.org/)
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/) (with NPM)
+- [Ember CLI](https://ember-cli.com/)
+- {Replace this list with the app's dependencies.}
 
 ## Local development
 
@@ -42,14 +43,14 @@ You will need the following things properly installed on your computer.
 
 ## Architecture
 
-"Lay of the land" structure of the codebase, components,
+{"Lay of the land" structure of the codebase, components...}
 
 ### Backend services
 
 - **Carto** - Description of this service
 - **github static content** - Description of this service
 - **mapzen api** - Description of this service
-- **anything that the frontend app consumes** - Description of this service
+- {Replace this list with the app's backend service dependencies.}
 
 ## Testing and checks
 
@@ -63,7 +64,7 @@ You will need the following things properly installed on your computer.
 
 ## Deployment
 
-You can deploy to dokku manually or depend on circleci..
+{Description of what type of hosting environmen is required, and steps for how Labs deploys -- e.g `git push dokku master`.}
 
 ## Contact us
 
