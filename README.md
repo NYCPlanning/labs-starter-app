@@ -23,6 +23,8 @@ In the spirit of free software, everyone is encouraged to help improve this proj
   - Clean up code
   - Add new features
 
+**[Read more about contributing.](CONTRIBUTING.md)**
+
 ## Requirements
 
 You will need the following things properly installed on your computer.
