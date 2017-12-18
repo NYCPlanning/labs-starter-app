@@ -11,32 +11,12 @@ If you have any questions or want to read more, check out the [NYC Planning Labs
 This repository has two evergreen branches: `master` and `develop`
  (avoid directly committing changes to these two branches).
 
-<table>
-  <thead>
-    <tr>
-      <th>Branch</th>
-      <th>Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>`master`</td>
-      <td>Master is always deployable and only accepts merges from `develop`.</td>
-    </tr>
-    <tr>
-      <td>`develop`</td>
-      <td>Accepts merges from feature and issue branches.</td>
-    </tr>
-    <tr>
-      <td>Feature/Issues</td>
-      <td>Always branch off `HEAD` of `develop`. Prefix feature branches with your name (e.g. `user-feature_name`). Prefix issue branches with the issue number (e.g. `123-issue_name`).</td>
-    </tr>
-    <tr>
-      <td>Hotfixes</td>
-      <td>In rare cases, hotfix branches must be created to quickly update the project. Always branch off `master` and make sure those changes make it back into develop.</td>
-    </tr>
-  </tbody>
-</table>
+| Branch | Notes |
+| ------ | ----- |
+| `master` | Master is always deployable and only accepts merges from `develop`. |
+| `develop` | Accepts merges from feature and issue branches. |
+| Feature/Issues | Always branch off `HEAD` of `develop`. Prefix feature branches with your name (e.g. `user-feature_name`). Prefix issue branches with the issue number (e.g. `123-issue_name`). |
+| Hotfixes | In rare cases, hotfix branches must be created to quickly update the project. Always branch off `master` and make sure those changes make it back into develop. |
 
 ## 🤓 Be cool
 
