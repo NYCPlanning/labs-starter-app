@@ -64,7 +64,7 @@ You will need the following things properly installed on your computer.
 
 ## Deployment
 
-{Description of what type of hosting environmen is required, and steps for how Labs deploys -- e.g `git push dokku master`.}
+{Description of what type of hosting environment is required, and steps for how Labs deploys -- e.g `git push dokku master`.}
 
 ## Contact us
 
